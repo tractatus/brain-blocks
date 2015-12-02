@@ -27,6 +27,7 @@ TBA
 #### Author(s)
 
 Daniel Fürth - [@wholebrainsuite](https://twitter.com/wholebrainsuite) - <daniel.furth@ki.se>
+
 Solmaz Yazdani
 
 
