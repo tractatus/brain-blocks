@@ -1,6 +1,8 @@
 BRAIN-BLOCKS
 =========
 
+<img src="https://images1.sw-cdn.net/model/picture/625x465_4106555_13228822_1449066178.jpg"></img>
+
 Standardize your anatomical work for using Allen Brain Reference atlas.
 
 A coronal brain block printed in frosted detail plastic. Freshly perfused brains can be directly inserted into the mold and wrapped together with rubberbands and placed in fixation medium (e.g. PFA) into a falcon tube over night.
