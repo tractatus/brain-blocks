@@ -10,7 +10,7 @@ A coronal brain block printed in frosted detail plastic. Freshly perfused brains
 Coronal sections can be generated with a 1 mm spacing using a blade no thicker than standard .009'' double edged razor.
 Approximate bregma is marked with a small circle on both sides of the brain block.
 
-<img src="brain-blocks/image_circular_mark.png" alt="hi" class="inline"/>
+<img src="images/image_circular_mark.png" alt="hi" class="inline"/>
 
 ### Order directly from the web
 
